@@ -15,3 +15,5 @@ Proper indentation is used throughout the project to make it readable and code c
 
 SCALABILITY:
 We have used MERN stack which is a collection of robust and highly scalable technologies used to develop scalable web applications. Therefore, this application can be scaled as per its needs.
+
+YouTube link for the demo of the application: https://youtu.be/Oll5tiFRDwE
